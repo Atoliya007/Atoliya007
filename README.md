@@ -6,7 +6,7 @@ I have a solid understanding of SQL databases and enjoy working on full-stack pr
 
 ---
 
-## 🛠️ **Skills**
+## 👨‍💻 **Skills**
 
 ### **Backend Development**
 - **Languages**: Python
@@ -33,16 +33,6 @@ Here are some of the projects I've worked on during my training:
 1. **[Expense Tracker]
    - A brief description of the project (e.g., "A Django-based e-commerce website with user authentication and product management.")
    - Technologies used: Django, Bootstrap, SQLite
-
-2. **[Project Name 2](link-to-repo)**  
-   - A brief description of the project (e.g., "A FastAPI-based RESTful API for a blog application.")
-   - Technologies used: FastAPI, SQLite
-
-3. **[Project Name 3](link-to-repo)**  
-   - A brief description of the project (e.g., "A React-based frontend for a weather app.")
-   - Technologies used: React, JavaScript, CSS
-
----
 
 ## 📚 **Learning Journey**
 
